@@ -1,1 +1,2 @@
-# Hack1
+Name: Hing Chai Yen
+Major: Computer Science
