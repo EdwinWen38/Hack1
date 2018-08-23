@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 Name: Hing Chai Yen
 Major: Computer Science
+https://github.com/volts1997/Hack1.0
 =======
 # Hack1
 Name: YuJie Wen,
